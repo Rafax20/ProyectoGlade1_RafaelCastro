@@ -32,3 +32,11 @@ por ultimo en la parte inferior se encuentra el boton que se encargara de realiz
 ### Ventana-Iniciado-Sesion
 Esta Ventana aun se encuentra en Desarrollo, ya que unicamente se tiene un boton que mostrara el nombre del usuario ingresado.
 Se tiene como idea una ventana en donde se puedan realizar compras de vehiculos, visualizando precios, modelos entre otras cosas
+
+### Codigo-Python
+Por ultimo mediante un conjunto de archivos .py que trabajan interconectados se logra manejar las conexiones con la base de datos y las funcionalidades de todas las ventanas, como lo son
+los botones, combobox, Entrys entre otros,
+
+### Ejecutar-Programa
+Para ejecutar el programa se necesitar abrir la terminal y escribir el siguiente comando dentro del fichero
+python3 app.py
